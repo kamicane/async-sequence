@@ -1,6 +1,6 @@
 {
   "name": "@kamicane/sequence",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "a generator runner. yield promises. be async.",
   "main": "sequence.js",
   "repository": "https://gist.github.com/kamicane/d9a7b463eb1dd93fa76bf762288058b9",
