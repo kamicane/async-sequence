@@ -1,5 +1,5 @@
 {
-  "name": "sequence",
+  "name": "@kamicane/sequence",
   "version": "1.0.0",
   "description": "a generator runner. yield promises. be async.",
   "main": "sequence.js",
