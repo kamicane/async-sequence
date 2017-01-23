@@ -1,8 +1,8 @@
 {
-  "name": "@kamicane/sequence",
+  "name": "async-sequence",
   "version": "2.0.1",
   "description": "a generator runner. yield promises. be async.",
-  "main": "sequence.js",
+  "main": "index.js",
   "repository": "https://gist.github.com/kamicane/d9a7b463eb1dd93fa76bf762288058b9",
   "author": "Valerio Proietti <kamicane@gmail.com>",
   "license": "MIT"
