@@ -1,6 +1,6 @@
 // Works like async / await.
-// It is very similar to babel's async / await implementation.
-// I like to think this is faster because it doesn't do any useless try / catching
+// It is very similar to babel's async / await transpiler.
+// I like to think this is faster because it doesn't do any useless try / catch.
 'use strict'
 
 module.exports = function sequence (gen) {
